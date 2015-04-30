@@ -14,7 +14,7 @@ public class GUIRunner
     {
         Mancala board=new Mancala();
         MancalaGameGUI gui= new MancalaGameGUI(board);
-        gui.displaygame();
+        gui.displayGame();
 
     }
 
